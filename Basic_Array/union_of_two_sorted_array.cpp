@@ -7,7 +7,7 @@ int main(){
 
     // this is method using set
 
-//     set<int>st;
+    //   set<int>st;
     // for(int i=0;i<n;i++){
     //     cin>>arr1[i];
     //  st.insert(arr1[i]);
